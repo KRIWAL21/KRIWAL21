@@ -22,7 +22,7 @@ I am a **Final Year ECE B.Tech Undergraduate at NIT Jamshedpur**, an **AI & Agen
 - 🎓 **Education:** B.Tech in Electronics and Communication Engineering (ECE) at **National Institute of Technology (NIT), Jamshedpur** *(2023 – 2027)*.
 - 🤖 **What I Build:** Autonomous Multi-Agent workflows (LangGraph, n8n), LLM tool-calling orchestration, production-grade RAG pipelines, and enterprise-grade full-stack web architectures.
 - ⚡ **Competitive Programmer:** **LeetCode Knight** (Max Rating: **1871**) & **Codeforces Specialist** (Max Rating: **1529**) with over **800+ DSA problems solved** across competitive programming platforms.
-- 🏆 **Hackathon Winner & Freelancer:** Thrives in high-velocity environments solving real-world bottlenecks (*Winner ElectroQuest NIT Rourkela*, *2nd Place Pixel-Sync NIT Jamshedpur*).
+- 🏆 **Hackathon Winner & Freelancer:** Thrives in high-velocity environments solving real-world bottlenecks *).
 - 🌟 **Leadership:** **Vice President at Team InnoReva**, directing technical strategy for a 100-member team across AI/ML, web, and hardware sub-teams to deliver patented tech.
 - 💡 **Philosophy:** Combine mathematically rigorous backend algorithms & AI reasoning with stunning, responsive **glassmorphism UI/UX**.
 
