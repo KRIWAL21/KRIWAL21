@@ -2,13 +2,13 @@
 <div align="center">
 
   <a href="https://github.com/KRIWAL21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Krishna+Agarwal!;Lead+AI+%26+Agentic+Systems+Architect;Full-Stack+Software+Engineer+%26+;Innovating%2C+Next.js+%26+Cloud+Native+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Krishna+Agarwal!;Final+Year+ECE+Undergrad+%40+NIT+Jamshedpur;Lead+AI+%26+Agentic+Systems+Architect;LeetCode+Knight+%7C+Codeforces+Specialist;Hackathon+Winner+%26+Full-Stack+Engineer" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://github.com/KRIWAL21"><img src="https://img.shields.io/badge/Focus-AI_%26_Agentic_Workflows-38bdf8?style=for-the-badge&logo=probot&logoColor=black" alt="AI Focus"/></a>
-    <a href="https://github.com/KRIWAL21"><img src="https://img.shields.io/badge/Stack-Next.js_15_%7C_React_19_%7C_TS-818cf8?style=for-the-badge&logo=next.js&logoColor=white" alt="Tech Stack"/></a>
-    <a href="https://github.com/KRIWAL21"><img src="https://img.shields.io/badge/Cloud-Google_Cloud_%7C_Docker-34d399?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud"/></a>
+    <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode_Knight-Max_1871-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight"/></a>
+    <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces_Specialist-Max_1529-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist"/></a>
+    <a href="https://github.com/KRIWAL21"><img src="https://img.shields.io/badge/DSA_Solved-800%2B_Problems-34d399?style=for-the-badge&logo=hackerrank&logoColor=black" alt="800+ Problems"/></a>
   </p>
 
 </div>
@@ -17,12 +17,14 @@
 
 ### ⚡ About Me
 
-I am a **Full-Stack AI & Agentic Systems Architect** and **Software Engineer** dedicated to building intelligent, autonomous software that bridges complex reasoning models with high-performance web engineering. 
+I am a **Final Year ECE B.Tech Undergraduate at NIT Jamshedpur**, an **AI & Agentic Systems Architect**, and a **Software Engineer** dedicated to building intelligent, autonomous software that bridges complex reasoning models with high-performance web engineering.
 
-- 🤖 **What I Build:** Autonomous Agentic workflows, LLM orchestration pipelines, multimodal AI assistants, and enterprise-grade web applications.
-- 🛠️ **Current Obsession:** Exploring **Google Gemini 2.5 Flash**, Function Calling / Tool Use, LangChain/LCEL, and modern **Next.js App Router** architectures.
-- 🏆 **Hackathon Builder and Freelancer:** Thrives in high-velocity environments solving real-world bottlenecks.
-- 💡 **Philosophy:** Combine mathematically rigorous backend intelligence with stunning, responsive **glassmorphism UI/UX**.
+- 🎓 **Education:** B.Tech in Electronics and Communication Engineering (ECE) at **National Institute of Technology (NIT), Jamshedpur** *(2023 – 2027)*.
+- 🤖 **What I Build:** Autonomous Multi-Agent workflows (LangGraph, n8n), LLM tool-calling orchestration, production-grade RAG pipelines, and enterprise-grade full-stack web architectures.
+- ⚡ **Competitive Programmer:** **LeetCode Knight** (Max Rating: **1871**) & **Codeforces Specialist** (Max Rating: **1529**) with over **800+ DSA problems solved** across competitive programming platforms.
+- 🏆 **Hackathon Winner & Freelancer:** Thrives in high-velocity environments solving real-world bottlenecks (*Winner ElectroQuest NIT Rourkela*, *2nd Place Pixel-Sync NIT Jamshedpur*).
+- 🌟 **Leadership:** **Vice President at Team InnoReva**, directing technical strategy for a 100-member team across AI/ML, web, and hardware sub-teams to deliver patented tech.
+- 💡 **Philosophy:** Combine mathematically rigorous backend algorithms & AI reasoning with stunning, responsive **glassmorphism UI/UX**.
 
 ---
 
@@ -30,28 +32,28 @@ I am a **Full-Stack AI & Agentic Systems Architect** and **Software Engineer** d
 
 <div align="center">
 
-#### **Languages & Core**
+#### **Languages & Core CS**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,html,css,sql&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,sql,html,css&theme=dark" alt="Languages" />
 </p>
 
 #### **Frontend & UI Architecture**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,vite,bootstrap&theme=dark" alt="Frontend Tech" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,redux&theme=dark" alt="Frontend Tech" />
 </p>
 
 #### **Backend, Cloud & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,gcp,docker,linux,git&theme=dark" alt="Backend & Cloud" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,flask,graphql,aws,gcp,docker,mongodb,postgres,firebase,linux,git&theme=dark" alt="Backend & Cloud" />
 </p>
 
-#### **AI, ML & Agentic Tools**
+#### **AI, ML & Agentic Ecosystem**
 <p>
-  <img src="https://img.shields.io/badge/Google_Gemini_SDK-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LangChain_%26_LCEL-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Vector_Databases-00E5FF?style=for-the-badge&logo=databricks&logoColor=black" alt="Vector DBs" />
-  <img src="https://img.shields.io/badge/Twilio_Webhooks-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/LangGraph_%26_LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/n8n_Orchestration-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Pinecone_Vector_DB-00E5FF?style=for-the-badge&logo=databricks&logoColor=black" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/PyTorch_%26_TensorFlow-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="ML Frameworks" />
+  <img src="https://img.shields.io/badge/MCP_Servers_%26_Pipelines-818CF8?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="MCP" />
 </p>
 
 </div>
@@ -62,11 +64,11 @@ I am a **Full-Stack AI & Agentic Systems Architect** and **Software Engineer** d
 
 | Project & Overview | Tech Stack & Highlights |
 | :--- | :--- |
-| **[⏱️ SamayPe.AI](https://github.com/KRIWAL21/SamayPe.AI)**<br> *Autonomous Agentic Deadline Management System*<br> An active productivity guardian that negotiates with time. Decomposes goals into subtasks, scores temporal risk in real-time, and autonomously compresses schedules when overload occurs. Features bi-directional **WhatsApp messaging** & voice capture. | `<Next.js 15>` `<React 19>` `<Gemini 2.5 Flash>` `<MongoDB Atlas>` `<Cloud Run>` `<Twilio>`<br>✨ **Key Feature:** Live Agentic Reasoning HUD & Autonomous Auto-Fix scheduling. |
-| **[🌐 AgenticFlow](#)**<br> *Full-Stack Conversational Browser Control Agent*<br> An autonomous web navigation and browser automation agent capable of executing multi-step web interactions, data extraction, and form orchestration through natural language commands. | `<TypeScript>` `<Node.js>` `<LLM Tool Calling>` `<Browser Automation>` `<WebSocket>`<br>⚡ **Key Feature:** Real-time conversational browser manipulation and DOM parsing. |
-| **[⚡ PulseAI](#)**<br> *Next-Gen AI Deployment & Real-Time Analytics Platform*<br> A centralized command center for monitoring LLM pipelines, tracking token velocity, latency metrics, and deploying automated AI microservices with high-performance telemetry dashboards. | `<Next.js>` `<Tailwind CSS>` `<Framer Motion>` `<REST APIs>` `<Cloud Infrastructure>`<br>📊 **Key Feature:** High-density telemetry HUD and sleek dark-mode analytics. |
-| **[📈 Chanakya Astra](#)**<br> *Intelligent Financial & Broker Network Ecosystem*<br> A fintech intelligence network designed to optimize brokerage routing, real-time data analysis, and predictive decision-making using modern full-stack architectures. | `<Full-Stack TS>` `<Real-time APIs>` `<Financial Tech>` `<Database Design>`<br>🛡️ **Key Feature:** High-concurrency network routing and data integrity. |
-| **[🍔 Cravo](#)**<br> *Modern Full-Stack Food Ordering & Tracking App*<br> A comprehensive end-to-end food delivery ecosystem featuring interactive menus, cart state management, live order tracking, and responsive mobile-first UI. | `<React>` `<Node.js>` `<Express>` `<MongoDB>` `<Tailwind CSS>`<br>📱 **Key Feature:** Seamless cart orchestration and responsive checkout flows. |
+| **[⏱️ SamayPe.AI](https://github.com/KRIWAL21/SamayPe.AI)**<br> *Autonomous Agentic Deadline Management System*<br> An active productivity guardian that negotiates with time. Decomposes goals into subtasks, scores temporal risk in real-time, and autonomously compresses schedules when overload occurs. Features bi-directional **WhatsApp messaging**, Google Calendar OAuth sync, and voice capture. | `<Next.js 16>` `<TypeScript>` `<Gemini 2.0 Flash>` `<MongoDB Cloud>` `<Cloud Run>`<br>✨ **Key Feature:** Live Agentic Reasoning HUD & Autonomous Auto-Fix scheduling. |
+| **[📈 Chanakya Astra](#)**<br> *Autonomous AI Real Estate Platform*<br> Engineered an autonomous, event-driven system with **n8n orchestration**, **NestJS**, and **MongoDB** via WhatsApp to run stateful, role-aware workflows for brokers, owners, and customers at scale; enabled automated personalized broker microsites and AI marketing assets. | `<NestJS>` `<n8n>` `<MongoDB>` `<Next.js>` `<MCP Servers>` `<WhatsApp Workflows>`<br>⚡ **Key Feature:** Conversational triggers & modular Model Context Protocol pipelines. |
+| **[🩺 PulseAI](#)**<br> *AI Medical Assistant & RAG Ecosystem*<br> Architected a full-stack medical RAG system grounding answers in verified clinical literature. Engineered real-time token streaming and voice symptom input with persistent Supabase Postgres storage deployed via CI/CD on Vercel and Render. | `<FastAPI>` `<React/TypeScript>` `<Gemini>` `<Pinecone Vector DB>` `<Supabase>`<br>📊 **Key Feature:** High-precision clinical literature grounding & voice streaming. |
+| **[🎮 Leonida 3D](#)**<br> *Open-World WebGL Game Engine*<br> Designed a modular 3D city simulator and graphics engine from scratch, leveraging **System Design principles** and **OOP hierarchies** to orchestrate real-time collision detection, AI pedestrian pathfinding, and weather cycles with cinematic bloom and custom shaders. | `<JavaScript ES6+>` `<Three.js WebGL>` `<HTML5 Canvas>` `<Web Audio API>` `<OOP>`<br>🌟 **Key Feature:** Unreal Bloom post-processing & real-time audio synthesis. |
+| **[🍔 Cravo](#)**<br> *Modern Full-Stack Food Ordering Platform*<br> A comprehensive end-to-end food delivery ecosystem featuring interactive menus, cart state management, live order tracking, and responsive mobile-first UI. | `<React>` `<Node.js>` `<Express>` `<MongoDB>` `<Tailwind CSS>`<br>📱 **Key Feature:** Seamless cart orchestration and responsive checkout flows. |
 
 ---
 
@@ -102,12 +104,13 @@ I am a **Full-Stack AI & Agentic Systems Architect** and **Software Engineer** d
 <div align="center">
   <a href="https://linkedin.com/in/krishna-agarwal-21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/KRIWAL21"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:agarwal.krishna2104@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://twitter.com"><img src="https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:krishna21agr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>⚡ <i>"Negotiating with time, optimizing code, and building autonomous systems."</i> — <b>Krishna Agarwal</b></sub>
+  <sub>⚡ <i>"Negotiating with time, optimizing algorithms, and building autonomous systems."</i> — <b>Krishna Agarwal</b></sub>
 </div>
