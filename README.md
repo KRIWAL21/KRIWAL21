@@ -2,7 +2,7 @@
 <div align="center">
 
   <a href="https://github.com/KRIWAL21">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Krishna+Agarwal!;Lead+AI+%26+Agentic+Systems+Architect;Full-Stack+Software+Engineer+%26+Hackathon+Builder;Innovating+with+Gemini%2C+Next.js+%26+Cloud+Native+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Krishna+Agarwal!;Lead+AI+%26+Agentic+Systems+Architect;Full-Stack+Software+Engineer+%26+;Innovating%2C+Next.js+%26+Cloud+Native+Tech" alt="Typing SVG" />
   </a>
 
   <p align="center">
