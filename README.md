@@ -21,7 +21,7 @@ I am a **Full-Stack AI & Agentic Systems Architect** and **Software Engineer** d
 
 - 🤖 **What I Build:** Autonomous Agentic workflows, LLM orchestration pipelines, multimodal AI assistants, and enterprise-grade web applications.
 - 🛠️ **Current Obsession:** Exploring **Google Gemini 2.5 Flash**, Function Calling / Tool Use, LangChain/LCEL, and modern **Next.js App Router** architectures.
-- 🏆 **Hackathon Builder:** Thrives in high-velocity environments solving real-world bottlenecks (e.g., *Vibe2Ship*, *Amazon ML Challenge*).
+- 🏆 **Hackathon Builder and Freelancer:** Thrives in high-velocity environments solving real-world bottlenecks.
 - 💡 **Philosophy:** Combine mathematically rigorous backend intelligence with stunning, responsive **glassmorphism UI/UX**.
 
 ---
